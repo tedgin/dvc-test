@@ -1,0 +1,4 @@
+[core]
+    remote = cyverse
+['remote "cyverse"']
+    url = webdavs://data.cyverse.org/dav/iplant/home/tedgin
