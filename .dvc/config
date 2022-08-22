@@ -1,4 +1,6 @@
 [core]
-    remote = cyverse
+    remote = cyverse2
+['remote "cyverse2"']
+    url = webdavs://data.cyverse.org/dav/iplant/home/tedgin/public
 ['remote "cyverse"']
-    url = webdavs://data.cyverse.org/dav/iplant/home/tedgin
+    url = webdavs://data.cyverse.org/dav/iplant/projects/AIIRA-CMU/tedgin
